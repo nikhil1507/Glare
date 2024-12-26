@@ -1,2 +1,2 @@
-# glare
-Source code for Glare, the beautiful light tracker app☀️
+# Glare
+Source code for Glare, the beautiful sunlight tracker app☀️
