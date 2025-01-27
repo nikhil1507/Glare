@@ -12,10 +12,10 @@ Glare is a beautiful, intuitive sunlight and moonlight tracking app built using 
 - Stunning UI: A beautiful, user-friendly interface designed using Jetpack Compose.
 
 <div style={flex-direction:row;display:flex;justify-content:space-between;}>
-  <img src="screenshots/img_4.png" width="200">
-<img src="screenshots/img_3.png" width="200">
-  <img src="screenshots/img_2.png" width="200">
-   <img src="screenshots/img_1.png" width="200">
+  <img src="screenshots/img4.jpg" width="200">
+<img src="screenshots/img3.jpg" width="200">
+  <img src="screenshots/img2.jpg" width="200">
+   <img src="screenshots/img1.jpg" width="200">
 
 </div>
 
