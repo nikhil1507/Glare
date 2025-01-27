@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
-    <style name="Theme.Glare" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.GlareSplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground" tools:ignore="NewApi">
+            @color/splash_screen_color
+        </item>
+        <item name="windowSplashScreenAnimatedIcon" tools:ignore="NewApi">
+            @drawable/scaled_splash_icon
+        </item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/splash_screen_color</item>
+        <item name="postSplashScreenTheme">@style/Theme.Glare</item>
+    </style>
+
+    <style name="Theme.Glare" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:ignore="NewApi">false</item>
+    </style>
 </resources>
