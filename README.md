@@ -1,4 +1,4 @@
-# Glare - Sunlight & Moonlight Tracker
+# Glare
 Glare is a beautiful, intuitive sunlight and moonlight tracking app built using Kotlin and Jetpack Compose. Whether you're an astronomy enthusiast or simply someone who loves to track the position of the sun and moon, Glare provides precise timings for sunlight, moon phases, and twilight stages, all while offering a visually stunning experience.
 
 ## Features
